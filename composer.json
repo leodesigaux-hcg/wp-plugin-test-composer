@@ -1,0 +1,16 @@
+{
+    "name": "devhcg/wp-plugin-test-composer",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Devhcg\\WpPluginTestComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leodesigaux-hcg",
+            "email": "leo.desigaux@groupe-hcg.fr"
+        }
+    ],
+    "require": {}
+}
