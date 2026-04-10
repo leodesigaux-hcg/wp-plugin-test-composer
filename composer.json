@@ -1,5 +1,5 @@
 {
-    "name": "devhcg/wp-plugin-test-composer",
+    "name": "leodesigaux-hcg/wp-plugin-test-composer",
     "type": "wordpress-plugin",
     "autoload": {
         "psr-4": {
